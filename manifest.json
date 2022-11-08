@@ -1,7 +1,7 @@
 {
   "vendor": "vtexarg",
   "name": "contextoproducto",
-  "version": "0.0.1",
+  "version": "1.0.0",
   "title": "contexto",
   "description": "Context component",
   "defaultLocale": "pt-BR",
